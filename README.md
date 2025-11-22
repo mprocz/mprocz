@@ -14,7 +14,7 @@ I'm a Brazilian Computer Scientist. I love solving problems with technology.
 - **Data Science** and **Backend Development**.
 
 - **Building**:
-    - REST APIs, LLMs, AI Agents.
+    - REST APIs, AI Agents.
 - **Python**:
     - FastAPI, Django, Pandas, Numpy, PyTorch, SciKitLearn, Langchain.
 - **Javascript**/**TypeScript**:
